@@ -6,7 +6,7 @@ module.exports = {
   config: {
     name: "hentai",
     version: "1.0.0",
-    author: "JV Barcenas",
+    author: "Ken Apor",
     role: 0,
     countDown: 5,
     shortDescription: {
@@ -29,11 +29,11 @@ module.exports = {
 
       const userId = event.senderID;
       const userBank = bank[userId]?.bank;
-      const cost = 1890;
+      const cost = 9099999999;
 
       if (userBank === undefined || userBank < cost) {
         return api.sendMessage(
-          `Sorry, you must pay $1990, but you don't have enough money in your bank account🤪🤪..\ntype: '/bank' to check your balance`,
+          `Tigil mo yan kakahentai mo😏`,
           event.threadID,
           event.messageID
         );

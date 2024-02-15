@@ -7,7 +7,7 @@ module.exports = {
     name: "spellingbee",
     aliases: ["sb", "spell"],
     version: "1.0",
-    author: "JVSanecrab",
+    author: "Ken Gwapo",
     countDown: 5,
     role: 0,
     shortDescription: {

@@ -5,7 +5,7 @@ module.exports = {
     name: 'cat',
     aliases: ['catfact'],
     version: '1.1',
-    author: 'JV',
+    author: 'Ken',
     role: 0,
     category: 'utility',
     shortDescription: {
