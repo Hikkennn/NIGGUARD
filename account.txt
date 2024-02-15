@@ -1,47 +1,47 @@
 [
   {
-    "key": "datr",
-    "value": "sJ20ZXUw7ocL2vUk2qJhnZ4c",
+    "key": "sb",
+    "value": "_C_EZU81_Xxy6pvTO6YQ2il_",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-01-31T22:54:28.728Z",
-    "lastAccessed": "2024-01-31T22:54:33.842Z"
+    "creation": "2024-02-14T21:52:10.797Z",
+    "lastAccessed": "2024-02-14T21:52:15.244Z"
+  },
+  {
+    "key": "datr",
+    "value": "_S_EZbaaY2Be3oY--fcpR0X4",
+    "domain": "facebook.com",
+    "path": "/",
+    "hostOnly": false,
+    "creation": "2024-02-14T21:52:10.841Z",
+    "lastAccessed": "2024-02-14T21:52:15.244Z"
   },
   {
     "key": "fr",
-    "value": "0Fk7Olpa6sxsSkGBb.AWUoru34VWe2HiuQH2tksTEAq24.BltJ2w.gR.AAA.0.0.BltJ3W.AWVqS056Ug4",
+    "value": "0dHEy4bCBONmvm2Vf.AWW2043gEcgkuMN5twzVmI-wDfI.BlxC_9..AAA.0.0.BlyUqK.AWWV_4G-itI",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-01-31T22:54:28.769Z",
-    "lastAccessed": "2024-01-31T22:54:33.842Z"
-  },
-  {
-    "key": "xs",
-    "value": "50%3AraJ3sHQgL3cW_A%3A2%3A1706335696%3A-1%3A7717",
-    "domain": "facebook.com",
-    "path": "/",
-    "hostOnly": false,
-    "creation": "2024-01-31T22:54:28.774Z",
-    "lastAccessed": "2024-01-31T22:54:33.842Z"
+    "creation": "2024-02-14T21:52:10.850Z",
+    "lastAccessed": "2024-02-14T21:52:15.244Z"
   },
   {
     "key": "c_user",
-    "value": "61550968686588",
+    "value": "61556101778736",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-01-31T22:54:28.775Z",
-    "lastAccessed": "2024-01-31T22:54:33.842Z"
+    "creation": "2024-02-14T21:52:10.864Z",
+    "lastAccessed": "2024-02-14T21:52:15.244Z"
   },
   {
-    "key": "sb",
-    "value": "sJ20Zaw7KF-UpXlrmIXMX2jf",
+    "key": "xs",
+    "value": "45%3A13Dx7xeDjaC_Kg%3A2%3A1707690634%3A-1%3A-1",
     "domain": "facebook.com",
     "path": "/",
     "hostOnly": false,
-    "creation": "2024-01-31T22:54:28.776Z",
-    "lastAccessed": "2024-01-31T22:54:33.842Z"
+    "creation": "2024-02-14T21:52:10.870Z",
+    "lastAccessed": "2024-02-14T21:52:15.244Z"
   }
 ]

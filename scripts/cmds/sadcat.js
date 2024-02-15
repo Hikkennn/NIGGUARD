@@ -6,7 +6,7 @@ module.exports = {
 		name: "sadcat",
     aliases: ["sc"],
 		version: "1.1",
-		author: "JV BARCENAS",
+		author: "KEN APOR",
 		countDown: 5,
 		role: 0,
 		shortDescription: "sadcat with text",

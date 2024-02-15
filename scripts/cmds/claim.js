@@ -6,7 +6,7 @@ module.exports = {
     name: 'claim',
     aliases: ["coin", "coins"],
     version: '1.1',
-    author: 'JV Barcenas',
+    author: 'Ken Ferry Louie Apor',
     countDown: 5,
     role: 0,
     shortDescription: {

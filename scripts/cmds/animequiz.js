@@ -16,7 +16,7 @@ module.exports = {
     name: "animequiz",
     aliases: ['anquiz', 'aniquiz'],
     version: "1.0",
-    author: "JV Barcenas",
+    author: "Ken Apor",
     countDown: 18,
     role: 0,
     shortDescription: {

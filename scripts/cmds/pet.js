@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "pet",
 		version: "1.0",
-		author: "JV Brcns",
+		author: "Ken Gwapo",
 		countDown: 5,
 		role: 0,
 		shortDescription: "Pet image",

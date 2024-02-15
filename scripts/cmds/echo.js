@@ -3,7 +3,7 @@ module.exports = {
     name: "echo",
     aliases: ["repeat"],
     version: "1.0",
-    author: "JV Barcenas",
+    author: "Ken Ferry Louie Apor",
     role: 0,
     shortDescription: {
       en: "Repeats the user's prompts or arguments."
